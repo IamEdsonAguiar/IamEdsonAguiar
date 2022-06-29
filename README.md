@@ -1,5 +1,5 @@
 ## Hello! 
-I am Edson Aguiar , a Computer Programmer , currently working with web development.
+I am Edson Aguiar , a Computer Programmer , an avid student of programming , currently working with web development.
 
 
 ## My Projects
