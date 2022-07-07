@@ -13,6 +13,6 @@ You can reach me at
   <a href="https://instagram.com/iamedsonaguiar">Instagram</a> ,
   <a href= "mailto: oedsonaguiar@gmail.com">Email</a> ,
   <a href="https://www.twitter.com/IamEdsonAguiar">Twitter</a> and 
-  <a href="https://www.linkedin.com/in/edson-aguiar-a5b744240">Linkedin</a>.
+  <a href="https://www.linkedin.com/in/edson-aguiar-27b7a0244">Linkedin</a>.
  </div>
 
