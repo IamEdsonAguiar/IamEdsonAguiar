@@ -1,5 +1,5 @@
 ## Hello! 
-I am Edson Aguiar , a Computer Programmer , an avid student of programming , currently working with web development.
+I am Edson Aguiar , a Web Developer and a Digital Marketer , constantly solving companies problems and helpning them to have high perfomance in digital.
 
 
 ## My Projects
@@ -12,7 +12,7 @@ You can reach me at
 <div>
   <a href="https://instagram.com/iamedsonaguiar">Instagram</a> ,
   <a href= "mailto: oedsonaguiar@gmail.com">Email</a> ,
-  <a href="https://www.twitter.com/IamEdsonAguiar">Twitter</a> and 
+  and 
   <a href="https://www.linkedin.com/in/edson-aguiar-27b7a0244">Linkedin</a>.
  </div>
 
