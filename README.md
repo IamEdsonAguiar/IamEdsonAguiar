@@ -8,8 +8,5 @@ I'm Edson Aguiar , a Web Developer living in Cape Verde Islands.
 >
   
 ## Contact Me
-You can reach me at 
-<div>
-  <a href= "mailto: iamedsonaguiar@gmail.com">Email</a> ,
- </div>
+You can reach me at <a href= "mailto: iamedsonaguiar@gmail.com">Email</a>
 
