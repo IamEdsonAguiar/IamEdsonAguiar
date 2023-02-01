@@ -1,5 +1,5 @@
 ## Hello! 
-I'm Edson Aguiar , a Web Developer and a Digital Marketer , constantly solving companies problems and helpning them to have high perfomance in digital.
+I'm Edson Aguiar , a Web Developer living in Cape Verde Islands.
 
 
 ## My Projects
