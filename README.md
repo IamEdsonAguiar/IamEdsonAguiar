@@ -1,5 +1,5 @@
 ## Hello! 
-I'm Edson Aguiar , a Web Developer living in Cape Verde Islands.
+I'm Edson Aguiar , a Web Developer .
 
 
 ## My Projects
