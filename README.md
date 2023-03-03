@@ -1,5 +1,5 @@
 ## Hello! 
-I'm Edson Aguiar , a Web Developer .
+I'm Edson Aguiar , a Fullstack Web Developer .
 
 
 ## My Projects
