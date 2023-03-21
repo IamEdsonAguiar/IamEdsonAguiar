@@ -1,5 +1,5 @@
 ## Hello! 
-I'm Edson Aguiar , a Fullstack Web Developer .
+I'm Edson Aguiar , a Full Stack Web Developer , I have developed multiple web apps that impact 1000+ customers in 10+ countries.
 
 
 ## My Projects
