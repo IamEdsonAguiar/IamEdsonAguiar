@@ -11,6 +11,11 @@ I'm Edson Aguiar , a Full Stack Web Developer , I have developed multiple web ap
         
 * <a href="https://ea-downloader.vercel.app/">EA Downloader</a>, a downloader with functionality to download any file like videos, images , pdf, etc...
 
+
+  #### Contact me to access the AI  that automates tasks, built by me and used by thousands of people around the world .
+
 ## Contact Me
 You can reach me at <a href= "mailto: iamedsonaguiar@gmail.com">Email</a>
+
+**See my pinned repositories** ⬇️
 
