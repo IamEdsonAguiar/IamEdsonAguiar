@@ -13,7 +13,7 @@
 
 
 ## Contact Me
-You can reach me at <a href= "mailto: iamedsonaguiar@gmail.com">Email</a>
+You can reach me at <a href= "mailto: edsonaguiarwebdeveloper@gmail.com">Email</a>
 
 
 
